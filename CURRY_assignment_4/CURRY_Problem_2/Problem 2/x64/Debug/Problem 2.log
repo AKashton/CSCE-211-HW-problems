@@ -1,0 +1,21 @@
+﻿  Ant.cpp
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Doodlebug.h(5,1): error C2504: 'Organism': base class undefined
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Ant.cpp(3,34): error C2661: 'Organism::Organism': no overloaded function takes 3 arguments
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Ant.cpp(18,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Ant.cpp(23,57): error C2661: 'Ant::Ant': no overloaded function takes 3 arguments
+  Doodlebug.cpp
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Ant.h(5,1): error C2504: 'Organism': base class undefined
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Ant.h(7,10): error C2614: 'Ant': illegal member initialization: 'Organism' is not a base or member
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Doodlebug.cpp(41,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Doodlebug.cpp(64,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Ant.h(5,1): error C2504: 'Organism': base class undefined
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Ant.h(7,10): error C2614: 'Ant': illegal member initialization: 'Organism' is not a base or member
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Doodlebug.h(5,1): error C2504: 'Organism': base class undefined
+  Organism.cpp
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Ant.h(5,1): error C2504: 'Organism': base class undefined
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Ant.h(7,10): error C2614: 'Ant': illegal member initialization: 'Organism' is not a base or member
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\Doodlebug.h(5,1): error C2504: 'Organism': base class undefined
+  World.cpp
+C:\Users\ashto\OneDrive\Desktop\Compsci degree\Fall 22\CSCE A211\Assignments\CURRY_assignment_4\CURRY_Problem_2\Problem 2\World.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
